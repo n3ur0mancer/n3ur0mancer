@@ -14,7 +14,7 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 - Next.js
 
 ---
-## 🦾 Skillset
+## 🛠 Skillset
 
 ### Design:
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -43,11 +43,12 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Kirby-%23000000?style=for-the-badge&logo=kirby&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Strapi-%232F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Pltoly.js-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PigeonMaps.js-black?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Sequelize-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Mongoose.js-%23880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Sequelize.js-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
-
 
 ### Container & Cloud:
 ![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
