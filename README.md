@@ -31,11 +31,12 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-### DBMS:
+### DBMS & Data:
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=white&color=%23E97627)
 
 
 ### Web Frameworks & Libraries:
@@ -50,6 +51,7 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Sequelize.js-%2352B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/.env-black?style=for-the-badge&logo=dotenv&logoColor=black&color=%23ECD53F)
 ![Static Badge](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 
@@ -62,6 +64,7 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/tmux-%231BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Let's%20Encrypt-white?style=for-the-badge&logo=letsencrypt&logoColor=white&color=%23003A70)
 
 
 ### Workflow:
