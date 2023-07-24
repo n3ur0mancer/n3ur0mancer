@@ -49,6 +49,7 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Pltoly.js-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PigeonMaps.js-black?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=mui&logoColor=white&color=%23007FFF)
 ![Static Badge](https://img.shields.io/badge/.env-black?style=for-the-badge&logo=dotenv&logoColor=black&color=%23ECD53F)
 
 
