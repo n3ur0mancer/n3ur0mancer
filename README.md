@@ -66,16 +66,15 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-### Miscellaneous:
+### Environments:
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Espressif-%23E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
+![Static Badge](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/macOS-white?style=for-the-badge&logo=macos&logoColor=white&color=%23000000)
 ![Static Badge](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
 ![Static Badge](https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=Windows&logoColor=white&color=%230078D4)
-
-
 
 
 ### Workflow:
