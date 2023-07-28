@@ -39,6 +39,8 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Mongoose.js-%23880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tableau-white?style=for-the-badge&logo=tableau&logoColor=white&color=%23E97627)
+![Static Badge](https://img.shields.io/badge/matplotlib-white?style=for-the-badge&logoColor=%2311557C&color=%2311557C)
+![Static Badge](https://img.shields.io/badge/Pltoly.js-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ### Web Frameworks & Libraries:
@@ -46,7 +48,6 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ![Static Badge](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Kirby-%23000000?style=for-the-badge&logo=kirby&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Strapi-%232F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Pltoly.js-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PigeonMaps.js-black?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MUI-white?style=for-the-badge&logo=mui&logoColor=white&color=%23007FFF)
