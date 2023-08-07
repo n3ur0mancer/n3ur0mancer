@@ -7,11 +7,30 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 ---
 ## 🔭 I’m currently working on...
 - A MERN app with the aim to help users find and manage private, public events to meet new people based on their hobbies and interests.
+- Various small Python projects to improve my skills.
 
 ---
 ## 🌱 I’m currently learning...
-- Python
+
+### Languages & Tools
+
+**Python**
+- Deepen my knowledge and understanding of the fundamentals
+- Data science essentials (NumPy, Pandas, Maplotlib, Seaborn, Jupyter Notebook, Sci-kit Learn)
+- Tkinter for UI design
+- Scraping & Automation
+
+**Web Development**
 - Next.js
+- Typescript
+
+**Sometime in the future...**
+- Getting to know C better
+
+### Related to programming
+
+- Reading & practising *Clean Code* by Robert Cecil Martin et al.
+- Continually improving my maths & algorithms skills
 
 ---
 ## 🛠 Skillset
