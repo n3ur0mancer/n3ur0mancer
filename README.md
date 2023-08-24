@@ -25,6 +25,7 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 - Typescript
 
 **Sometime in the future...**
+- Learning Go
 - Getting to know C better
 
 ### Related to programming
