@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🫶
 
 I'm a full stack web developer with a strong focus on crafting meaningful user experiences. I have a keen interest in all things design, with a particular focus on UI/UX. I love exploring the intersection of aesthetics and functionality.
 
@@ -7,9 +7,10 @@ Beyond coding, I'm an avid explorer of various technologies, from 3D printing an
 Feel free to contact me if you have any questions or would like to collaborate!
 
 ---
-## 🔭 I’m currently working on...
+## 👨‍💻 I’m currently working on...
 - A MERN app with the aim to help users find and manage private, public events to meet new people based on their hobbies and interests.
 - Various small Python projects to improve my skills.
+- My MSc in Data Science
 
 ---
 ## 🌱 I’m currently learning...
@@ -107,6 +108,6 @@ Feel free to contact me if you have any questions or would like to collaborate!
 
 ---
 
-### 📫 How to reach me: contact@wagnerpit.lu
+### 📫 How to get in touch: contact@wagnerpit.lu
 
 
