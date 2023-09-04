@@ -1,8 +1,10 @@
 # Hi there 👋
 
-I'm a full stack web developer with a strong focus on creating delightful user experiences. I have a keen interest in all things design, with a particular focus on UI/UX. I love exploring the intersection of aesthetics and functionality.
+I'm a full stack web developer with a strong focus on crafting meaningful user experiences. I have a keen interest in all things design, with a particular focus on UI/UX. I love exploring the intersection of aesthetics and functionality.
 
-Beyond coding, I'm an avid explorer of various technologies, from 3D printing and amateur radio to IoT projects. I believe in striking a balance between my digital endeavors and outdoor adventures, embracing ultralight hiking, hopefully soon SOTA activations and other outdoor activities to fuel my creativity and gain fresh perspectives. 
+Beyond coding, I'm an avid explorer of various technologies, from 3D printing and amateur radio to IoT projects. I try to strike a balance between my digital endeavors and outdoor adventures - dabbling in ultralight hiking, training for my first triathlon and hopefully soon activating some SOTA spots. 
+
+Feel free to contact me if you have any questions or would like to collaborate!
 
 ---
 ## 🔭 I’m currently working on...
