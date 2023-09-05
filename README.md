@@ -13,7 +13,7 @@ Feel free to contact me if you have any questions or would like to collaborate!
 - My MSc in Data Science
 
 ---
-## 🌱 I’m currently learning...
+## 🌱 I’m currently deepening my knowledge in...
 
 ### Languages & Tools
 
