@@ -9,32 +9,32 @@ Feel free to contact me if you have any questions or would like to collaborate!
 ---
 ## 👨‍💻 I’m currently working on...
 - A MERN app with the aim to help users find and manage private, public events to meet new people based on their hobbies and interests.
-- Various small Python projects to improve my skills.
+- Various small Python projects (Kaggle comeptitions, a model to calculate the electron density in the ionosphere, etc.)
 - My MSc in Data Science
 
 ---
-## 🌱 I’m currently deepening my knowledge in...
+## 🌱 I’m currently deepening my knowledge in:
 
 ### Languages & Tools
-
-**Python**
-- Deepen my knowledge and understanding of the fundamentals
-- Data science essentials (NumPy, Pandas, Maplotlib, Seaborn, Jupyter Notebook, Sci-kit Learn)
-- Tkinter for UI design
-- Scraping & Automation
-
-**Web Development**
+- Go
+- Advanced SQL
 - Next.js
 - Typescript
 
-**Sometime in the future...**
-- Learning Go
-- Getting to know C better
+### Want to learn in the future
+- Java
+- C
 
-### Related to programming
-
-- Reading & practising *Clean Code* by Robert Cecil Martin et al.
-- Continually improving my maths & algorithms skills
+### Current reading list
+- Probability: For the Enthusiastic Beginner
+- Design Patterns: Elements of Reusable Object-Oriented Software
+- Clean Code: A Handbook of Agile Software Craftsmanship
+- Clean Architecture: A Craftsman's Guide to Software Structure and Design
+- The Go Programming Language
+- Learning SQL: Generate, Manipulate, and Retrieve Data 
+- Head first Java
+- Head First Java: A Brain-Friendly Guide
+- The C Programming Language
 
 ---
 ## 🛠 Skillset
