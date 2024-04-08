@@ -1,43 +1,4 @@
-# Hi there 🫶
-
-I'm a full stack web developer with a strong focus on crafting meaningful user experiences. I have a keen interest in all things design, with a particular focus on UI/UX. I love exploring the intersection of aesthetics and functionality.
-
-Beyond coding, I'm an avid explorer of various technologies, from 3D printing and amateur radio to IoT projects. I try to strike a balance between my digital endeavors and outdoor adventures - dabbling in ultralight hiking, training for my first triathlon and hopefully soon activating some SOTA spots. 
-
-Feel free to contact me if you have any questions or would like to collaborate!
-
----
-## 👨‍💻 I’m currently working on...
-- A MERN app with the aim to help users find and manage private, public events to meet new people based on their hobbies and interests.
-- Various small Python projects (Kaggle comeptitions, a model to calculate the electron density in the ionosphere, etc.)
-- My MSc in Data Science
-
----
-## 🌱 I’m currently deepening my knowledge in:
-
-### Languages & Tools
-- Go
-- Advanced SQL
-- Next.js
-- Typescript
-
-### Want to learn in the future
-- Java
-- C
-
-### Current reading list
-- Probability: For the Enthusiastic Beginner
-- Design Patterns: Elements of Reusable Object-Oriented Software
-- Clean Code: A Handbook of Agile Software Craftsmanship
-- Clean Architecture: A Craftsman's Guide to Software Structure and Design
-- The Go Programming Language
-- Learning SQL: Generate, Manipulate, and Retrieve Data 
-- Head first Java
-- Head First Java: A Brain-Friendly Guide
-- The C Programming Language
-
----
-## 🛠 Skillset
+# 🛠 Skillset
 
 ### Design:
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -106,8 +67,5 @@ Feel free to contact me if you have any questions or would like to collaborate!
 ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)
 
----
-
-### 📫 How to get in touch: contact@wagnerpit.lu
 
 
