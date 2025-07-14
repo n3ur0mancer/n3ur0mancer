@@ -1,5 +1,3 @@
-# 🛠 Skillset
-
 ### Design:
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Adobe%20XD-%23FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
